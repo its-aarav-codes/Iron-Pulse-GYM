@@ -1,5 +1,7 @@
 # Iron Pulse Gym – Landing Page Website
 
+Link: https://its-aarav-codes.github.io/Iron-Pulse-GYM/
+
 This project is a fully responsive landing page website built for a modern gym or fitness center.  
 The goal was simple: create a clean, fast, and conversion-focused website that works smoothly on mobile, tablet, and desktop without relying on any backend.
 
@@ -59,7 +61,6 @@ This project reflects that mindset.
 
 This is a **frontend-only project**.  
 Backend features like form submissions or payments can be added later if required.
-To Keep It Minimal i have not added any images in the background of the hero section but to use this template you can download the folder and add an image in it.
 
 ---
 
