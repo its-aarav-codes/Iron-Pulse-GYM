@@ -110,7 +110,7 @@ header {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('/gym\ image.avif');
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://static.vecteezy.com/system/resources/thumbnails/031/691/805/small_2x/within-gym-with-modern-fitness-equipment-for-fitness-events-and-more-modern-of-gym-interior-with-equipment-sports-equipment-in-the-gym-created-with-generative-ai-photo.jpg');
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -326,4 +326,5 @@ footer {
     text-align: center;
     padding: 20px;
     margin-top: 50px;
+
 }
