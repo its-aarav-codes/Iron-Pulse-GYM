@@ -59,6 +59,7 @@ This project reflects that mindset.
 
 This is a **frontend-only project**.  
 Backend features like form submissions or payments can be added later if required.
+To Keep It Minimal i have not added any images in the background of the hero section but to use this template you can download the folder and add an image in it.
 
 ---
 
